@@ -1,4 +1,4 @@
-# ⚡ Soltech E-commerce Boilerplate (Lite Version)
+⚡ Soltech E-commerce Boilerplate (Lite Version)
 
 A lightning-fast, beautiful, and responsive E-commerce frontend built with **React, Vite, and Tailwind CSS**. 
 
@@ -31,7 +31,7 @@ The Fullstack PRO Boilerplate includes:
 
 📦 Ready to Deploy: Clean .env.example and optimized structure.
 
-👉 GET THE PRO VERSION HERE             https://smieres.gumroad.com/l/snzrs 👈
+👉 GET THE FULLSTACK PRO VERSION HERE 👈
 
 🛠️ Tech Stack (Lite Version)
 React 18
