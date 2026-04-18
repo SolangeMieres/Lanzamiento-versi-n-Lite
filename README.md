@@ -12,8 +12,6 @@ To run this Lite version locally:
 2. Install dependencies:
    ```bash
    npm install
-
-
 Start the development server:
 
 Bash
@@ -33,7 +31,7 @@ The Fullstack PRO Boilerplate includes:
 
 📦 Ready to Deploy: Clean .env.example and optimized structure.
 
-👉 https://smieres.gumroad.com/l/snzrs 👈
+👉 GET THE PRO VERSION HERE 👈
 
 🛠️ Tech Stack (Lite Version)
 React 18
