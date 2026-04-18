@@ -31,7 +31,7 @@ The Fullstack PRO Boilerplate includes:
 
 📦 Ready to Deploy: Clean .env.example and optimized structure.
 
-👉 GET THE FULLSTACK PRO VERSION HERE 👈
+👉 GET THE FULLSTACK PRO VERSION HERE                      https://soltechboilerplate.lemonsqueezy.com/checkout 👈
 
 🛠️ Tech Stack (Lite Version)
 React 18
